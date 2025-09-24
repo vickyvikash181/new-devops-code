@@ -6,3 +6,4 @@ this is edit by git hub will it reflect in terminal..?
 magizchiii
 r u there ..?
 yes i am here 
+this is the first developer from the git repo
