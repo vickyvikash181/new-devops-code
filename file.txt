@@ -7,3 +7,6 @@ magizchiii
 r u there ..?
 yes i am here
 this is the second developer made the changes from the local  
+yes i am here 
+this is the first developer from the git repo
+
